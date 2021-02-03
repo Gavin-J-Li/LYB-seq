@@ -1,0 +1,10 @@
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\bin\Debug\netcoreapp2.2\FastqProcessor.deps.json
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\bin\Debug\netcoreapp2.2\FastqProcessor.runtimeconfig.json
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\bin\Debug\netcoreapp2.2\FastqProcessor.runtimeconfig.dev.json
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\bin\Debug\netcoreapp2.2\FastqProcessor.dll
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\obj\Debug\netcoreapp2.2\FastqProcessor.fsprojAssemblyReference.cache
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\obj\Debug\netcoreapp2.2\FastqProcessor.AssemblyInfoInputs.cache
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\obj\Debug\netcoreapp2.2\FastqProcessor.AssemblyInfo.fs
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\bin\Debug\netcoreapp2.2\FastqProcessor.pdb
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\obj\Debug\netcoreapp2.2\FastqProcessor.dll
+S:\OneDrive\OneDrive - Microsoft\Projects\2017 DNA Kinetics\DNA Structure Study\FastqProcessor\FastqProcessor\obj\Debug\netcoreapp2.2\FastqProcessor.pdb
